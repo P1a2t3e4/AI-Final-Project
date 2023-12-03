@@ -24,7 +24,7 @@ To deploy the application on the cloud:
 2. Set up an environment on the cloud with the necessary dependencies.
 3. Upload your script and any required files to the cloud environment.
 4. Execute the script on the cloud.
-#Youtube link
+# Youtube link
 https://youtu.be/6VqI4zM95xE
 
 
