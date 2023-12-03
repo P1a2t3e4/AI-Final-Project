@@ -1,7 +1,6 @@
 # AI-Final-Project
 Final Project for AI for the Semester
-README file 
-YouTube Video to Text and Summarizer
+
 This Python script is designed to download a YouTube video, convert it to audio, transcribe the audio to text, and then summarize the transcribed text. Additionally, it integrates the MoviePy library for video editing.
 
  Project Overview
